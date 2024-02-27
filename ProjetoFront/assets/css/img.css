@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 50%;
+
+    /* arredondamento de borda de img */
+    border-radius: 30px;
+
+    /* filter:blur( 15px); */
+    /* filter: brightness(50%); */
+
+    /* borda em volta da imagem */
+    filter: drop-shadow(10px 10px 5px rgba(250, 131, 19, 0.205));
+
+    filter: grayscale(12%);
+}

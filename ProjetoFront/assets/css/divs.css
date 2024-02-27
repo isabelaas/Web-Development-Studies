@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    width: 50%;
+    height: 200%;
+    background-color: rgba(129, 127, 127, 0.473);
+    overflow: auto;
+}

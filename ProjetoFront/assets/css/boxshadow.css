@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 2px 2px cornflowerblue;
+    border-radius: 5px;
+}

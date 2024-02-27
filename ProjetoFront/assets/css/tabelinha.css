@@ -1,0 +1,50 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+
+}
+
+ /* para mudar o conteudo ou o fundo de uma unica div */
+.bg-blue{background-color: blue;}
+.bg-red{background-color: red;}
+.bg-green{background-color: green;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    width: 90%;
+    height: 80px;
+    margin: 10px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgb(207, 162, 236);
+}
+
+#conteudo{
+    background-color: rgb(231, 218, 243);
+    color: rgb(247, 3, 153);
+    text-align: center;
+     */
+/* } 

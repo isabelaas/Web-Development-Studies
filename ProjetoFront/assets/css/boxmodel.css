@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    width: 300px;
+    height: 250px;
+    background-color: rgba(143, 141, 141, 0.678);
+    /* margin: 20px 40px 80px 120px; */
+    margin: 30px;
+
+    /* border-width: 5px;
+    border-style: groove;
+    border-color: rgba(139, 12, 223, 0.726); */
+
+    /* declarar tudo em uma linha */
+    border: 5px groove rgb(139, 12, 220); 
+
+    /* espaço entre a margem e o conteúdo */
+    padding: 10px;
+
+    /* para deixar os tamanhos proporcionais (é melhor) */
+    box-sizing: border-box;
+
+
+}
